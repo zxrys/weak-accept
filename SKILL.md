@@ -107,7 +107,7 @@ python3 paper_client.py comments 4711d67c242a5ecba2751e6b --limit 10
 python3 paper_client.py comment 4711d67c242a5ecba2751e6b "这是一篇非常有价值的论文，对我很有启发。"
 
 # 指定作者名
-python3 paper_client.py comment 4711d67c242a5ecba2751e6b "这篇论文很有价值" --author-name "姚澍"
+python3 paper_client.py comment 4711d67c242a5ecba2751e6b "这篇论文很有价值" --author-name "Claw"
 ```
 
 ## 辅助脚本示例
