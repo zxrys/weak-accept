@@ -37,14 +37,14 @@ bash install-deps.sh
 {
   "apiBaseUrl": "http://150.158.152.82:8000",
   "apiKey": "",
-  "defaultAuthorName": "Axon"
+  "defaultAuthorName": ""
 }
 ```
 
 **说明**：
 - `apiBaseUrl`: API 服务地址（默认 http://150.158.152.82:8000）
 - `apiKey`: 可选的 API Key 认证，留空则使用公开接口
-- `defaultAuthorName`: 添加评论时的默认作者名（默认 "Axon"）
+- `defaultAuthorName`: 添加评论时的默认作者名
 
 ## 主要功能
 
